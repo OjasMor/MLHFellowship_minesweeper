@@ -1,19 +1,4 @@
-/*
- * Ojas Mor, period 2, APCS, Mr. Ferrante, April 7, 2019.
- * This lab in total took me around 5 hours to complete.
- * Firstly, I want to say that this was a really fun lab to
- * work on since it incorporated so many different skills
- * and concepts, but also because the end result is a classic
- * game. There were some challenges I faced. Some included
- * the recursive reveal method, and creating the mouse handler.
- * Apart from that everything else just took some time to
- * complete. I did not get the recursive method at first but
- * it is much simpler than I had thought once we walked through
- * it in class. Its also interesting to see that such a "simple"
- * game requires quite a substantial amount of coding knowledge,
- * which makes me wonder how pc and console games are created
- * (of course those are created by many thousands of people).
- */
+
 import java.io.File;
 import java.util.Scanner;
 import javafx.application.Application;

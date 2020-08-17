@@ -8,11 +8,8 @@ public class MinesweeperModel {
 	boolean hasGameLost = false;
 	
 	
-//	public void play(P2_Mor_Ojas_MinesweeperModel ms) {
-//		P2_Mor_Ojas_Controller c = new P2_Mor_Ojas_Controller();
-//		c.setModel(ms);
-//	    c.play();			
-//	}
+
+
 	
 	void updateFlag(int row, int col) {
 		
